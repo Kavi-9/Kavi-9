@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kavipriya S</h1>  
 <h2 align="center">💻 Web Enthusiast | Building with Clarity and Curiosity</h2>  
-<p align="center"><em>"Code with clarity, build with intention."</em></p>  💡 Passionate About !
+<p align="center"><em>"Code with clarity, build with intention."</em></p> 
+
+💡 Passionate About !
 
 • 🌐 Exploring modern web development tools and trends
 • 🤖 Embracing automation and AI to build smarter solutions
@@ -9,9 +11,7 @@
 🌱 Currently Immersed In !
 
 🧩 Full Stack Development – Seamlessly integrating frontend and backend
-
 📊 Marketing & Digital Strategy – Bridging technology and branding
-
 📑 Programming Languages !
 
 <p>  
