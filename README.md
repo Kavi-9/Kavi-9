@@ -5,6 +5,7 @@
 
 
   <strong>💡 Passionate About</strong>
+  
 • 🌐 Exploring modern web development tools and trends  
 • 🤖 Embracing automation and AI to build smarter solutions  
 • 🚀 Developing real-world projects and improving every day  
@@ -12,6 +13,7 @@
 <hr>
 
   <strong>🌱 Currently Immersed In</strong>
+  
 • 🧩 Full Stack Development – Seamlessly integrating frontend and backend  
 • 📊 Marketing & Digital Strategy – Bridging technology and branding  
 
