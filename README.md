@@ -1,10 +1,15 @@
 <h1 align="center">Hello 👋, I'm Kavipriya S</h1>  
 <h2 align="center">💻 Web Enthusiast | Building with Clarity and Curiosity</h2>  
+
+<!-- 🟣 Typing Animation with Fira Mono font -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=500&size=22&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Passionate+CSBS+Student;Learner+%7C+Builder+%7C+Thinker" alt="Typing SVG" />
+</p>
+
 <p align="center"><em>"Code with clarity, build with intention."</em></p>  
 
 
-
-  <strong>💡 Passionate About</strong>
+<strong>💡 Passionate About</strong>  
   
 • 🌐 Exploring modern web development tools and trends  
 • 🤖 Embracing automation and AI to build smarter solutions  
@@ -12,14 +17,14 @@
 
 <hr>
 
-  <strong>🌱 Currently Immersed In</strong>
+<strong>🌱 Currently Immersed In</strong>  
   
 • 🧩 Full Stack Development – Seamlessly integrating frontend and backend  
 • 📊 Marketing & Digital Strategy – Bridging technology and branding  
 
 <hr>
 
-  <strong>📑 Programming Languages</strong>
+<strong>📑 Programming Languages</strong>
 
 <p>  
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
@@ -30,9 +35,14 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />  
 </p>  
 
+<!-- 🔁 Animated GIF for languages/tools -->
+<p align="center">
+  <img src="https://i.imgur.com/PF3nKqH.gif" alt="Languages & Tools GIF" width="700"/>
+</p>
+
 <hr>
 
-  <strong>🎗️ Frameworks & Libraries</strong>
+<strong>🎗️ Frameworks & Libraries</strong>
 
 <p>  
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />  
@@ -41,7 +51,7 @@
 
 <hr>
 
-  <strong>🖥️ Databases</strong>
+<strong>🖥️ Databases</strong>
 
 <p>  
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />  
@@ -51,7 +61,7 @@
 
 <hr>
 
-  <strong>🔧 Tools & Platforms</strong>
+<strong>🔧 Tools & Platforms</strong>
 
 <p>  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />  
@@ -60,7 +70,7 @@
 
 <hr>
 
-  <strong>📊 GitHub Stats</strong>
+<strong>📊 GitHub Stats</strong>
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=Kavi-9&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff7aa2&text_color=cfcfcf&icon_color=ff7aa2" />  
@@ -68,15 +78,15 @@
 
 <hr>
 
-  <strong>🔥 Streak Stats</strong>
+<strong>🔥 Streak Stats</strong>
 
 <p align="center">  
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Kavi-9&theme=radical&hide_border=true" alt="GitHub Streak" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kavi-9&theme=radical&hide_border=true" alt="GitHub Streak" />  
 </p>  
 
 <hr>
 
-  <strong>⌨️ Most Used Languages</strong>
+<strong>⌨️ Most Used Languages</strong>
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi-9&layout=compact&theme=radical&hide_border=true" />  
@@ -84,7 +94,7 @@
 
 <hr>
 
-  <strong>🏆 GitHub Achievements</strong>
+<strong>🏆 GitHub Achievements</strong>
 
 <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=Kavi-9&theme=onestar&no-frame=true&margin-w=10" />  
@@ -92,7 +102,7 @@
 
 <hr>
 
-  <strong>📈 Contribution Graph</strong>
+<strong>📈 Contribution Graph</strong>
 
 <p align="center">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavi-9&area=true&hide_border=true&custom_title=Kavipriya%20S's%20Contribution%20Graph&bg_color=000000&color=cfcfcf&line=ff7aa2&point=cfcfcf" />  
@@ -100,7 +110,7 @@
 
 <hr>
 
-  <strong>📈 Profile Views</strong>
+<strong>📈 Profile Views</strong>
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=Kavi-9&label=Profile%20views&color=0e75b6&style=flat" alt="Kavi-9" />  
@@ -108,7 +118,7 @@
 
 <hr>
 
-  <strong>📬 Connect with Me</strong>
+<strong>📬 Connect with Me</strong>
 
 <p align="left">  
   <a href="mailto:kavieswari758@gmail.com" target="_blank">  
@@ -120,8 +130,8 @@
 </p>  
 
 <hr>
- 
-  <strong>💬 Interesting Tidbit</strong>
- "Indentation brings clarity to code; intention brings direction to life!"
+
+<strong>💬 Interesting Tidbit</strong>  
+<em>"Indentation brings clarity to code; intention brings direction to life!"</em>
 
 <hr>
