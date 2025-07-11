@@ -3,7 +3,7 @@
 
 <!-- 🟣 Typing Animation with Fira Mono font -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=500&size=22&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Passionate+CSBS+Student;Learner+%7C+Builder+%7C+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=500&size=22&pause=1000&color=A259FF&center=true&vCenter=true&width=450&lines=Aspiring+Full+Stack+Developer;Learning+by+Doing" alt="Typing SVG" />
 </p>
 
 <p align="center"><em>"Code with clarity, build with intention."</em></p>  
