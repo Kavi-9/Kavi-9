@@ -8,7 +8,6 @@
 
 <p align="center"><em>"Code with clarity, build with intention."</em></p>  
 
-
 <strong>💡 Passionate About</strong>  
   
 • 🌐 Exploring modern web development tools and trends  
@@ -76,7 +75,7 @@
 <strong>🔥 Streak Stats</strong>
 
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kavi-9&theme=radical&hide_border=true" alt="GitHub Streak" />  
+  <img src="https://streak-stats.demolab.com?user=Kavi-9&theme=radical&hide_border=true" alt="GitHub Streak" />  
 </p>  
 
 <hr>
