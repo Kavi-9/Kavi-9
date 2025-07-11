@@ -35,11 +35,6 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />  
 </p>  
 
-<!-- 🔁 Animated GIF for languages/tools -->
-<p align="center">
-  <img src="https://i.imgur.com/PF3nKqH.gif" alt="Languages & Tools GIF" width="700"/>
-</p>
-
 <hr>
 
 <strong>🎗️ Frameworks & Libraries</strong>
