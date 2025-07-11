@@ -36,16 +36,16 @@
 
 <hr>
 
-<strong>🎗️ Frameworks & Libraries</strong>
+<strong>🧱 Frameworks & Libraries</strong>
 
 <p>  
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />  
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
 </p>  
 
 <hr>
 
-<strong>🖥️ Databases</strong>
+<strong>🗄️ Databases</strong>
 
 <p>  
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />  
@@ -55,7 +55,7 @@
 
 <hr>
 
-<strong>🔧 Tools & Platforms</strong>
+<strong>🛠️ Tools & Platforms</strong>
 
 <p>  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />  
